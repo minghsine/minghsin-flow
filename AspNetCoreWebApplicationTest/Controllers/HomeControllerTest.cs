@@ -24,6 +24,8 @@ namespace AspNetCoreWebApplicationTest.Controllers
             Assert.Equal("We've encountered an error :(", result.ViewData["Message"]);
         }
 
+        // comment
+
         // [Fact]
         // public void NoInputParamGetResponseTest()
         // {
